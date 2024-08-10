@@ -1,6 +1,9 @@
 # FuriousRam
 Enhances the Ramportal's Class Roster and Advisee List with additional features
 
+[roster](https://i.v2ex.co/439hyzoll.png)
+
+[advisee](https://i.v2ex.co/OCe2X3gRl.png)
 
 # How to Install an Unpacked Chrome Extension
 

@@ -6,7 +6,8 @@ Enhances the Ramportal's Class Roster and Advisee List with additional features
 
 ## Step 1: Download and Extract the Extension
 
-1. Download the extension zip file from the this URL: https://github.com/quake0day/FuriousRam/releases/tag/beta.
+1. Download the FuriousRam.zip
+ from the this URL: https://github.com/quake0day/FuriousRam/releases/tag/beta.
 2. Locate the downloaded zip file in your computer's Downloads folder.
 3. Right-click on the zip file and select "Extract All" (Windows) or double-click the file (Mac).
 4. Choose a destination folder for the extracted files and click "Extract" (Windows) or "Save" (Mac).

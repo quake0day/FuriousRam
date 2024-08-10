@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Advisee List Enhancer",
+  "version": "1.0",
+  "description": "Enhances the Advisee List with additional features",
+  "permissions": [
+    "https://experience.elluciancloud.com/*",
+    "https://studentssb-prod.ec.wcupa.edu/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://experience.elluciancloud.com/*",
+        "https://studentssb-prod.ec.wcupa.edu/*"
+      ],
+      "js": ["content.js"],
+      "all_frames": true
+    }
+  ]
+}
